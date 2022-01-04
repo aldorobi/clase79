@@ -1,0 +1,10 @@
+input{
+    margin:10px;
+}
+#boyton_enviar{  
+    margin:20px;
+}
+#boton_ordenar{  
+    margin:20px;
+    display : none ;
+}
